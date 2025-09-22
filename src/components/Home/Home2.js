@@ -1,14 +1,14 @@
 import React from "react";
-import { gsap } from "gsap";
+// import { gsap } from "gsap";
 import { Container, Row, Col } from "react-bootstrap";
-import myImg from "../../Assets/about.png";
-import Tilt from "react-parallax-tilt";
-import {
-  AiFillGithub,
-  AiOutlineTwitter,
-  AiFillInstagram,
-} from "react-icons/ai";
-import { FaLinkedinIn } from "react-icons/fa";
+// import myImg from "../../Assets/about.png";
+// import Tilt from "react-parallax-tilt";
+// import {
+//   AiFillGithub,
+//   AiOutlineTwitter,
+//   AiFillInstagram,
+// } from "react-icons/ai";
+// import { FaLinkedinIn } from "react-icons/fa";
 
 function Home2() {
   return (
