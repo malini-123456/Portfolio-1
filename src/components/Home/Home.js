@@ -25,7 +25,7 @@ function Home() {
                   style={{
                     maxHeight: "450px",
                     borderRadius: "50%",
-                    boxShadow: "0 4px 24px rgba(128,0,128,0.3)", // Added box-shadow
+                    boxShadow: "0 4px 24px rgba(128,0,128,0.3)", 
                     position: "relative",
                     zIndex: 2,
                     width: "100%",
