@@ -13,10 +13,7 @@ function Home2() {
           <p className="home-about-body" >
             I craft code, experiment with design, art, culture, and explore how creativity and logic meet.
             <br />
-            <br />This site is my digital playgrouund for projects, notes, and inspirations
-            <br />
-            <br />
-            Expect mix of experiments, projects, and sparks of inspiration, because my work doesnt like staying in one box.
+            <br />This site is my digital playground for projects, notes, and inspirations
             <br />
             <br />
           </p>
